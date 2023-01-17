@@ -5,4 +5,4 @@
 #day5 : Flex-galery
 continue on day 6
 
-#Plan to continue
+#back to the courses
